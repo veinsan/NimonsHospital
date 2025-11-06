@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🏥 Nimons Hospital  
 **Tugas Besar IF1210 – Algoritma dan Pemrograman 1 ITB 2025**  
 
