@@ -99,4 +99,4 @@ make run
 
 ## 🪪 Lisensi
 Proyek ini bersifat open source untuk tujuan pembelajaran.  
-Silakan fork dan pelajari strukturnya, tapi tetap cantumkan kredit ke **Tim Nimons Hospital – ITB 2025**.
+Silakan fork dan pelajari strukturnya, tapi tetap cantumkan kredit ke **Tim Asisten Praktikum IF1210 ITB**.
